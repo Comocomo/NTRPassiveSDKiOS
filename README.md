@@ -1,1 +1,1 @@
-https://nutrinosdk.readme.io/v0.7.5/docs/usage-direct
+https://nutrinosdk.readme.io/v0.8.0/docs/usage-direct
